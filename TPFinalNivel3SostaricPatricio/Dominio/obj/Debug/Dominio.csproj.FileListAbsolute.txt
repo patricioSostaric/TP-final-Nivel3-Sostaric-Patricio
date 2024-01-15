@@ -3,3 +3,4 @@ C:\Users\Usuario\Desktop\CatalogoNivel3\TPFinalNivel3SostaricPatricio\Dominio\bi
 C:\Users\Usuario\Desktop\CatalogoNivel3\TPFinalNivel3SostaricPatricio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\CatalogoNivel3\TPFinalNivel3SostaricPatricio\Dominio\obj\Debug\Dominio.dll
 C:\Users\Usuario\Desktop\CatalogoNivel3\TPFinalNivel3SostaricPatricio\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\CatalogoNivel3\TPFinalNivel3SostaricPatricio\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
