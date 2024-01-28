@@ -11,25 +11,52 @@ namespace GestionCatalogoWeb
 {
 
 
-    public partial class Default
+    public partial class Default1
     {
 
         /// <summary>
-        /// Control sriptManager1.
+        /// Control scriptManager1.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.ScriptManager sriptManager1;
+        protected global::System.Web.UI.ScriptManager scriptManager1;
 
         /// <summary>
-        /// Control repRepetidor.
+        /// Control ddwnFiltroCampoDefault.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Repeater repRepetidor;
+        protected global::System.Web.UI.WebControls.DropDownList ddwnFiltroCampoDefault;
+
+        /// <summary>
+        /// Control ddwnFiltroCriterioDefault.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList ddwnFiltroCriterioDefault;
+
+        /// <summary>
+        /// Control txbFiltroDefault.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txbFiltroDefault;
+
+        /// <summary>
+        /// Control btnBuscarFiltroDefault.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnBuscarFiltroDefault;
     }
 }
