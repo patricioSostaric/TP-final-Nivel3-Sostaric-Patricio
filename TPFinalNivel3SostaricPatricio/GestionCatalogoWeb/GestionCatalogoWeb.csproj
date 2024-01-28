@@ -74,6 +74,7 @@
     <Content Include="FiltroDefault.aspx" />
     <Content Include="FormularioArticulo.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="MiPerfil.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -128,6 +129,13 @@
     </Compile>
     <Compile Include="MiMasterPage.Master.designer.cs">
       <DependentUpon>MiMasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MiPerfil.aspx.cs">
+      <DependentUpon>MiPerfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MiPerfil.aspx.designer.cs">
+      <DependentUpon>MiPerfil.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
