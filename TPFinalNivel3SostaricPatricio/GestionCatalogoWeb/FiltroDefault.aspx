@@ -31,7 +31,7 @@
                     <h5 class="card-title"><%:item.Nombre%></h5>
                     <%--item porque en el for each no cambie y la deje asi.--%>
                     <p class="card-text"><%:"$"+item.Precio %></p>
-                    <a href="Detalle.aspx?Id=<%:item.Id %>">Ver Detalle</a>
+                    <a href="DetalleArticulo.aspx?Id=<%:item.Id %>">Ver Detalle</a>
                 </div>
             </div>
         </div>
